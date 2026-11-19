@@ -27,4 +27,3 @@ In `index.html`, find the line with `class="tagline"`. It still says "Warehouse 
 - **stylesheet**: the CSS file that sets how the page looks.
 - **GitHub Pages**: a free GitHub service that puts a folder like this online.
 - **local**: on your own computer, not on the internet.
-OOPS bad line
